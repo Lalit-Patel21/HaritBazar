@@ -1,4 +1,8 @@
+
+i am changinging from developer brach  hii this is t1.txt file
+hii am changing from gui in second line from developer branch
 hii my name is lalit and I am at t1.txt
 this is second linne for git conflictfrom desktop gui
 this is second linne for git conflict
 i have done and remove conflict
+
